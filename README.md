@@ -1,5 +1,7 @@
 # Animated Lamp
 
+<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+
 A simple animation of a lamp created using Blender.
 
 ## Final Render of the Animation
